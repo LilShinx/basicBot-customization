@@ -96,7 +96,7 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,
-        opLink: http://dj-walkers.myfreesites.net/op-content,
+        opLink: null,
         rulesLink: http://dj-walkers.myfreesites.net/rules,
         themeLink: null,
         fbLink: null,
